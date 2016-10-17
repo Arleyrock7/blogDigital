@@ -1,0 +1,119 @@
+/*
+ Theme Name:    Revalia Child Theme
+ Theme URI:     http://www.themeforest.net
+ Description:   Revalia Child Theme
+ Author:        CodePage
+ Author URI:    http://www.themeforest.net/user/codpages
+ Template:      Revalia
+ Version:       1.0
+ License:       Envato Market License
+ License URI:   http://themeforest.net/licenses
+ Tags:          left-sidebar, right-sidebar, featured-images, post-formats, theme-options, translation-ready
+ Text Domain:   revalia-child
+*/
+
+
+
+
+#cssmenu > ul > li:hover > a, #cssmenu > ul > li.current-menu-item > a, #cssmenu > ul > li.current-menu-item > a i {
+    color: rgba(235, 66, 61, 0.7);
+}
+#cssmenu > ul > li > a {
+    color: #EB423D;
+}
+#cssmenu > ul > li.current-menu-item > a::after {
+    opacity: 1 !important;
+    background: #EB423D;
+}
+#cssmenu > ul > li.current-menu-item > a::after {
+    opacity: 1;
+    background: #EB423D;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+#cssmenu > ul > li.current-menu-item > a::after {
+    opacity: 1 !important;
+    background: rgba(235, 66, 61, 0.7);
+}
+#cssmenu > ul > li.current-menu-item > a::after {
+    opacity: 1;
+    background: rgba(235, 66, 61, 0.7);
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+a {
+    color: #eb423d;
+}
+a:hover {
+    color: rgba(235, 66, 61, 0.7);
+}
+.widget_categories ul li a:hover {
+    color: rgba(235, 66, 61, 0.7);
+}
+.socialfollow a:hover {
+    background-color: #EB423D;
+}
+.Read-More a:hover {
+    background-color: #EB423D;
+}
+#to-top {    
+    background-color: #EB423D;
+}
+
+
+
+.header-slider .home-links .home-links h2 {
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    text-align: center;
+    display: none;
+    vertical-align: middle;
+    z-index: 1;
+}
+
+
+
+/*--------------------------------COLORS POST STYLES*/
+.header-style1 .Social-header ul li a:hover {
+    background-color: #EB423D;
+}
+.home-links:hover a {
+    background-color: #EB423D;
+    color: #FFFFFF;
+}
+
+.post-category a {
+    color: #FFF;
+    background: #FBC713;
+}
+.post-category a:hover {
+    color: #FFF;
+    background: #FBC713;
+}
+
+#nav-posts .post-nav a:hover {
+    color: #EB423D;
+}
+#nav-posts .post-nav a span:hover {    
+    color: #EB423D;
+}
+#nav-posts .post-nav p:hover {
+    color: #EB423D;
+}
+#nav-posts .post-nav a span, #nav-posts .post-nav a:hover {
+    color: #EB423D;
+}
+
+.form-submit input:hover {
+   background-color: #EB423D;
+}
