@@ -18,7 +18,7 @@ function revalia_child_theme_scripts() {
 function revalia_enqueue_scripts_child() {
 
 	if ( ! is_admin() ) {
-		wp_register_style( 'revalia-main-child', get_stylesheet_directory_uri().'/style.css', array(), 'all' );
+		wp_register_style( 'revalia-main-child', get_stylesheet_directory_uri().'/style.min.css', array(), 'all' );
 		wp_enqueue_style( 'revalia-main-child' );
 
 	}
