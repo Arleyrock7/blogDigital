@@ -1,3 +1,14 @@
+/*Theme Name:    Revalia Child Theme */
+/*Theme URI:     http://www.themeforest.net */
+/*Description:   Revalia Child Theme */
+/*Author:        CodePage */
+/*Author URI:    http://www.themeforest.net/user/codpages */
+/*Template:      Revalia */
+/* Version:       1.0 */
+/*License:       Envato Market License */
+/*License URI:   http://themeforest.net/licenses */
+/*Tags:          left-sidebar, right-sidebar, featured-images, post-formats, theme-options, translation-ready */
+/*Text Domain:   revalia-child */
 .body-wrapper {
   background: transparent; }
   .body-wrapper .header-blog {
@@ -26,6 +37,8 @@
     color: #FF444A; }
     .body-wrapper #cssmenu ul ul li a:hover {
       color: #c30006; }
+  .body-wrapper #Home-Posts {
+    padding-bottom: 0px; }
   .body-wrapper .clearfix:before, .body-wrapper .clearfix:after, .body-wrapper .dl-horizontal dd:before, .body-wrapper .dl-horizontal dd:after, .body-wrapper .container:before, .body-wrapper .container:after, .body-wrapper .container-fluid:before, .body-wrapper .container-fluid:after, .body-wrapper .row:before, .body-wrapper .row:after, .body-wrapper .form-horizontal .form-group:before, .body-wrapper .form-horizontal .form-group:after, .body-wrapper .btn-toolbar:before, .body-wrapper .btn-toolbar:after, .body-wrapper .btn-group-vertical > .btn-group:before, .body-wrapper .btn-group-vertical > .btn-group:after, .body-wrapper .nav:before, .body-wrapper .nav:after, .body-wrapper .navbar:before, .body-wrapper .navbar:after, .body-wrapper .navbar-header:before, .body-wrapper .navbar-header:after, .body-wrapper .navbar-collapse:before, .body-wrapper .navbar-collapse:after, .body-wrapper .pager:before, .body-wrapper .pager:after, .body-wrapper .panel-body:before, .body-wrapper .panel-body:after, .body-wrapper .modal-footer:before, .body-wrapper .modal-footer:after {
     margin-bottom: -15px; }
   .body-wrapper .clearfix:after, .body-wrapper .dl-horizontal dd:after, .body-wrapper .container:after, .body-wrapper .container-fluid:after, .body-wrapper .row:after, .body-wrapper .form-horizontal .form-group:after, .body-wrapper .btn-toolbar:after, .body-wrapper .btn-group-vertical > .btn-group:after, .body-wrapper .nav:after, .body-wrapper .navbar:after, .body-wrapper .navbar-header:after, .body-wrapper .navbar-collapse:after, .body-wrapper .pager:after, .body-wrapper .panel-body:after, .body-wrapper .modal-footer:after {
@@ -100,5 +113,15 @@
 #footer .socialfollow a:hover {
   color: #ffffff;
   background: #FF444A; }
+
+.page-main-title {
+  padding-bottom: 100px; }
+  .page-main-title .category-content p {
+    color: #212121 !important;
+    display: none; }
+
+#Category-Posts {
+  padding-top: 120px;
+  padding-bottom: 200px; }
 
 /*# sourceMappingURL=style.min.css.map */
