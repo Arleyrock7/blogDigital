@@ -1,0 +1,316 @@
+/* Flexnav Base Styles */
+.flexnav {
+-webkit-transition: none;
+-moz-transition: none;
+-ms-transition: none;
+transition: none;
+margin: 0 auto;
+width: 100%;
+}
+.flexnav.opacity {
+opacity: 1;
+height: 0px;
+}
+.flexnav.flexnav-show {
+max-height: 2000px;
+opacity: 1;
+-webkit-transition: all .5s ease-in-out;
+-moz-transition: all .5s ease-in-out;
+-ms-transition: all .5s ease-in-out;
+transition: all .5s ease-in-out;
+}
+.flexnav.one-page {
+top: -1px;
+right: 0;
+}
+.flexnav li a {
+position: relative;
+display: block;
+padding: .96em;
+z-index: 2;
+overflow: hidden;
+color: #222222;
+border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+}
+.flexnav li ul li {
+font-size: 100%;
+position: relative;
+overflow: hidden;
+}
+.flexnav li ul.flexnav-show li {
+overflow: visible;
+}
+.flexnav li ul li a {
+display: block;
+background: #b2b2af;
+}
+.flexnav ul li ul li a {
+background: #bfbfbc;
+}
+.flexnav ul li ul li ul li a {
+background: #cbcbc9;
+}
+.flexnav .touch-button {
+position: absolute;
+z-index: 11111;
+top: 0;
+right: 0;
+width: 50px;
+height: 52px;
+display: none;
+background: #EBEBEB;
+border-left: 1px Solid #EBEBEB;
+background: rgb(255, 255, 255);
+text-align: center;
+font-family: 'FontAwesome';
+}
+
+.touch-button.active .navicon:before {
+content: '\f106';
+font-family: 'FontAwesome';
+float: right;
+line-height: 52px;
+padding: 0px 20px;
+font-size: 14px;
+color: #777777;
+text-align: center;
+background: #EBEBEB;
+border: none;
+z-index: 111;
+position: relative;
+-webkit-transition: -webkit-transform 0.3s;
+-moz-transition: -moz-transform 0.3s;
+transition: transform 0.3s;
+}
+
+.touch-button.active .navicon:after {
+content: '';
+font-family: 'FontAwesome';
+float: right;
+line-height: 49px;
+padding: 0px 20px;
+font-size: 14px;
+color: #777777;
+text-align: center;
+background: none;
+border: none;
+z-index: 111;
+position: relative;
+-webkit-transition: -webkit-transform 0.3s;
+-moz-transition: -moz-transform 0.3s;
+transition: transform 0.3s;
+}
+
+.touch-button .navicon:after {
+content: '\f107';
+font-family: 'FontAwesome';
+float: right;
+line-height: 49px;
+padding: 0px 20px;
+font-size: 14px;
+color: #777777;
+text-align: center;
+background: none;
+border: none;
+z-index: 111;
+position: relative;
+-webkit-transition: -webkit-transform 0.3s;
+-moz-transition: -moz-transform 0.3s;
+transition: transform 0.3s;
+}
+
+.flexnav .touch-button:hover {
+cursor: pointer;
+}
+.flexnav .touch-button .navicon {
+position: relative;
+font-size: 12px;
+color: #666;
+line-height: 50px;
+font-style: inherit;
+}
+.menu-button {
+position: relative;
+display: block;
+padding: 2em 1em;
+background: #FFF;
+color: #222222;
+cursor: pointer;
+width: 100%;
+margin-top: 0px;
+height: 67px;
+}
+.menu-button::before {
+content: 'Menu' !important;
+font-family: Raleway, sans-serif !important;
+float: left !important;
+line-height: 10px !important;
+font-size: 14px !important;
+color: #404040 !important;
+text-transform: uppercase;
+text-align: center;
+background: none;
+border: none;
+}
+
+.menu-button::after {
+content: '\f0c9';
+font-family: 'FontAwesome';
+float: right;
+line-height: 9px;
+font-size: 17px;
+color: #404040;
+text-align: center;
+background: none;
+border: none;
+position: relative;
+}
+
+.menu-button .touch-button i {
+display: none;
+}
+
+.menu-button.one-page {
+position: fixed;
+top: 0;
+right: 5%;
+padding-right: 45px; }
+.menu-button .touch-button {
+background: transparent;
+position: absolute;
+z-index: 999;
+top: 0;
+right: 0;
+width: 30px;
+height: 30px;
+display: inline-block;
+text-align: center; }
+.menu-button .touch-button .navicon {
+font-size: 12px;
+position: relative;
+top: 7px;
+color: #666;
+}
+
+@media all and (min-width: 992px) {
+
+body.one-page {
+padding-top: 70px;
+}
+
+.flexnav {
+overflow: visible;
+}
+.flexnav.opacity {
+opacity: 1;
+}
+.flexnav.one-page {
+top: 0;
+right: auto;
+width: auto;
+text-align: center;
+}
+.flexnav li a {
+border-left: 1px solid #acaca1;
+border-bottom: none;
+}
+.flexnav li ul li > ul {
+margin-left: 100%;
+top: 0;
+}
+.flexnav li ul li a {
+border-bottom: none;
+}
+.flexnav li ul.open {
+display: block;
+opacity: 1;
+visibility: visible;
+z-index: 1;
+}
+.flexnav li ul.open li {
+overflow: visible;
+max-height: 100px;
+}
+.flexnav li ul.open ul.open {
+margin-left: 100%;
+top: 0;
+}
+
+.menu-button {
+display: none;
+}
+}
+.oldie body.one-page {
+padding-top: 70px;
+}
+.oldie .flexnav {
+overflow: visible;
+}
+.oldie .flexnav.one-page {
+top: 0;
+right: auto;
+max-width: 1080px;
+}
+.oldie .flexnav li {
+position: relative;
+list-style: none;
+float: left;
+display: block;
+width: 20%;
+min-height: 50px;
+overflow: visible;
+}
+.oldie .flexnav li:hover > ul {
+display: block;
+width: 100%;
+overflow: visible;
+}
+.oldie .flexnav li:hover > ul li {
+width: 100%;
+float: none;
+}
+.oldie .flexnav li a {
+border-left: 1px solid #acaca1;
+border-bottom: none;
+overflow: visible;
+}
+.oldie .flexnav li > ul {
+background: #acaca1;
+position: absolute;
+top: auto;
+left: 0;
+display: none;
+z-index: 1;
+overflow: visible;
+}
+.oldie .flexnav li ul li ul {
+top: 0;
+}
+.oldie .flexnav li ul li a {
+border-bottom: none;
+}
+.oldie .flexnav li ul.open {
+display: block;
+width: 100%;
+overflow: visible;
+}
+.oldie .flexnav li ul.open li {
+width: 100%;
+}
+.oldie .flexnav li ul.open ul.open {
+margin-left: 100%;
+top: 0;
+display: block;
+width: 100%;
+overflow: visible;
+}
+.oldie .flexnav ul li:hover ul {
+margin-left: 100%;
+top: 0;
+}
+.oldie .menu-button {
+display: none;
+}
+.oldie.ie7 .flexnav li {
+width: 19.9%;
+}

@@ -1,0 +1,263 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Redux Framework\n"
+"Report-Msgid-Bugs-To: https://github."
+"com/ReduxFramework/ReduxFramework/issues\n"
+"POT-Creation-Date: 2015-02-03 22:24:22+00:00\n"
+"PO-Revision-Date: 2016-10-11 01:49+0000\n"
+"Last-Translator: digitalHype <arley.cuadradosierra@gmail.com>\n"
+"Language-Team: Spanish (Mexico)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es-MX\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Textdomain-Support: yes"
+
+#, fuzzy
+msgid "Activate Demo Mode"
+msgstr "Activar Modo Demostrativo"
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "All"
+msgstr "Todo"
+
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+"¿Estás seguro? La restauración eliminará todos los valores personalizados."
+
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+"¿Estás seguro? La restauración eliminará todos los valores personalizados en "
+"esta sección."
+
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+"¿Estás seguro? La restauración eliminará todos los valores personalizados."
+
+msgid "Background Attachment"
+msgstr "Adjunto del fondo"
+
+msgid "Background Position"
+msgstr "Posición del fondo"
+
+msgid "Background Repeat"
+msgstr "Repetición del fondo"
+
+msgid "Bottom"
+msgstr "Todo"
+
+msgid "Changelog"
+msgstr "Informe de cambios"
+
+msgid "Click here to activate the sample config file."
+msgstr "Da clic aquí para activar el archivo de configuración ejemplo."
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Copy"
+msgstr "Copiar"
+
+msgid "Credits"
+msgstr "Créditos"
+
+msgid "Deactivate Demo Mode"
+msgstr "Desactivar Modo Demostrativo"
+
+msgid "Default"
+msgstr "Por Defecto"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Disable"
+msgstr "Desactivar"
+
+msgid "Dismiss"
+msgstr "Descartar"
+
+msgid "Documentation"
+msgstr "Documentación"
+
+msgid "Email address"
+msgstr "Correo electrónico"
+
+msgid "Enable"
+msgstr "Activar"
+
+msgid "Font Family"
+msgstr "Familia tipográfica"
+
+msgid "Height"
+msgstr "Altura"
+
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+"Si te gustaría mantenerte al tanto con las novedades en Redux, por favor "
+"suscríbete a nuestro boletín"
+
+msgid "Import"
+msgstr "Importar"
+
+msgid "Import / Export"
+msgstr "Importar / Exportar"
+
+msgid "Left"
+msgstr "Izquierda"
+
+msgid "Like Redux?"
+msgstr "¿Te gusta Redux?"
+
+#, fuzzy
+msgid "Newsletter"
+msgstr "Boletín"
+
+msgid "Off"
+msgstr "Apagado"
+
+msgid "On"
+msgstr "Encendido"
+
+msgid "Options"
+msgstr "Opciones"
+
+msgid "Options Object"
+msgstr "Objeto de Opciones"
+
+msgid "Options panel created using %1$s"
+msgstr "Panel de opciones creado utilizando %1$s"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Redux Extensions"
+msgstr "Extensiones de Redux"
+
+msgid "Redux Framework"
+msgstr "Redux Framework"
+
+msgid "Redux Framework has an embedded demo."
+msgstr "Redux Framework tiene un demostrativo integrado."
+
+msgid "Remove"
+msgstr "Eliminar"
+
+msgid "Right"
+msgstr "Derecha"
+
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+msgid "Size"
+msgstr "Tamaño"
+
+msgid "Style"
+msgstr "Estilo"
+
+msgid "Subscribe"
+msgstr "Suscribir"
+
+msgid "System Info"
+msgstr "Información del Sistema"
+
+msgid "Text Align"
+msgstr "Alinear Texto"
+
+msgid "Text Transform"
+msgstr "Transformar Texto"
+
+msgid "The <em>[purchase_link]</em> Shortcode"
+msgstr "El código corto (shortcode) <em>[purchase_link]</em>"
+
+msgid ""
+"The [downloads] shortcode will display a product grid that works with any "
+"theme, no matter the size. It is even responsive!"
+msgstr ""
+"El código corto (shortcode) [downloads] desplegará una  cuadrícula que "
+"trabaja con cualquier tema, no importando el tamaño. ¡Es código totalmente "
+"responsivo!"
+
+msgid "This field cannot be empty. Please provide a value."
+msgstr "Este campo no puede quedar vacío. Por favor introduce un valor."
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Top"
+msgstr "Arriba"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Upload"
+msgstr "Subir"
+
+msgid "Username"
+msgstr "Nombre de usuario"
+
+msgid "Version %s"
+msgstr "Versión %s"
+
+msgid "Width"
+msgstr "Ancho"
+
+msgid ""
+"With easily accessible shortcodes to display purchase buttons, you can add a "
+"Buy Now or Add to Cart button for any product anywhere on your site in "
+"seconds."
+msgstr ""
+"Con códigos cortos fácilmente accesibles para desplegar los botones de "
+"compra, puede añadir un botón de \"Compre Ahora Mismo\" o \"Añadir al "
+"pedido\" para cualquier producto en cualquier parte de su sitio en segundos."
+
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tienes suficientes permisos para acceder a esta página"
+
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr "Tienes cambios que no han sido salvados. ¿Deseas salvarlos ahora?"
+
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr "Tienes cambios que no han sido salvados. ¿Deseas salvarlos ahora?"
+
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+"Tus configuraciones actuales serán reemplazadas con los valores que se "
+"presentan. ¿Deseas continuar?"
+
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+"Tus configuraciones actuales serán reemplazadas con los valores que se "
+"presentan. ¿Deseas continuar?"
+
+msgid "donation"
+msgstr "donación"
+
+msgid "extensions directory"
+msgstr "carpeta de extensiones"
+
+msgid "leave us a favorable review on WordPress.org"
+msgstr "comparte una reseña favorable en WordPress.org"
+
+msgid "our documentation"
+msgstr "nuestra documentación"

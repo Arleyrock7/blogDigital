@@ -1,0 +1,1240 @@
+/*------------------------------------------------------------------------------*/
+/*                    width : 1200px
+/*------------------------------------------------------------------------------*/
+
+@media (min-width: 1200px) {
+
+
+
+}
+
+/*------------------------------------------------------------------------------*/
+/*                    width : 991px
+/*------------------------------------------------------------------------------*/
+@media (min-width: 991px) and (max-width: 1200px) {
+
+#boxed-layout {
+    width: 100% !important;
+    margin: auto;
+    overflow: auto;
+    -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+}
+
+.col-md-4.Header-Social {
+    display: inline-block;
+    width: 33.33333333% !important;
+}
+
+.Block-Search {
+    width: 100% !important;
+}
+
+.Block-Search input {
+    width: 83% !important;
+}
+
+.form-input {
+    float: left;
+    margin-right: 15px;
+    width: 98% !important;
+}
+
+.Block-Search-header input {
+    height: 35px !important;
+    border-left: none !important;
+}
+
+.header-style2 .flexnav .touch-button,
+.header-style3 .flexnav .touch-button {
+    background: #282629! important;
+    border-left: 1px Solid #282629 !important;
+}
+
+.slider-2col .title-slider-content p {
+    padding: 0px 3% !important;
+	font-size: 11px !important;
+}
+
+.slider-2col .PostItem img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+
+.slider-2col .post-slider-content {
+    top: -1px !important;
+}
+
+.slider-2col .customNavigation {
+    display: none !important;
+}
+
+.title-slider-content h2, .title-slider-content h2 a {
+    font-size: 15px !important;
+}
+
+.post-header-style2 .inner-single {
+    padding: 85px 0px !important;
+}
+
+.post-header-style2 .post-title a {
+    font-size: 27px !important;
+    padding: 0px 30px !important;
+    line-height: 35px !important;
+}
+
+.post-social {
+    margin-bottom: 0px !important;
+}
+
+.blog-post-view .format-link .post-format img {
+    object-fit: cover;
+    width: 100%;
+    height: 250px;
+}
+
+.blog-post-view .format-quote .post-format img {
+    object-fit: cover;
+    width: 100%;
+    height: 250px;
+}
+
+.home-links h2 a {
+    padding: 15px 25px !important;
+    font-size: 10px !important;
+}
+
+.advertising {
+    text-align: center;
+}
+
+.post-layout-stander .post-format {
+    min-height: 287px !important;
+}
+
+.post-layout-grid .post-format {
+    min-height: 237px !important;
+}
+
+}
+/*------------------------------------------------------------------------------*/
+/*                    Width : 767px
+/*------------------------------------------------------------------------------*/
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+
+#boxed-layout {
+    width: 100% !important;
+    margin: auto;
+    overflow: auto;
+    -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+}
+
+.col-md-4.Header-Social {
+    display: inline-block;
+    width: 100%;
+}
+
+.blog-post-single .embed-responsive-4by3 {
+    padding-bottom: 41%;
+}
+
+.woocommerce-page .related.products ul li {
+    width: 45%!important;
+}
+
+.Logo-Header {
+    padding: 0px 0px !important;
+}
+
+.Social-header {
+    margin: 20px 0px !important;
+    width: 100% !important;
+    text-align: center;
+}
+
+.Search-Icon {
+    margin: 20px 0px !important;
+}
+
+.Block-Search {
+    width: 100% !important;
+}
+
+.Block-Search input {
+    width: 83% !important;
+}
+
+.post-slider-content {
+    background: rgba(27,25,29,0.85) !important;
+    padding: 50px 70px !important;
+    height: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+}
+
+.home-slider img {
+    position: relative;
+    width: 100%;
+    object-fit: cover;
+    height: 350px;
+}
+
+.customNavigation {
+    opacity: 0;
+}
+
+.home-links {
+    margin-bottom: 15px !important;
+}
+
+.content-block .post-title a, .content-block .post-title p {
+	font-size: 16px !important;
+    padding: 0 10px !important;
+}
+
+.details-post, .social-shear {
+    margin-bottom: 10px !important;
+}
+
+.content p {
+    font-size: 12px !important;
+}
+
+.widget-instagram_footer ul li {
+    width: 32% !important;
+}
+
+.widget-instagram_footer {
+    padding-bottom: 10px !important;
+}
+
+.pagination-post {
+    display: inline-block;
+    width: 100%;
+}
+
+.widget_content {
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
+
+.widget_title h2 {
+    letter-spacing: 0px !important;
+}
+
+.widget-follow ul li {
+    margin: 0 4px !important;
+}
+
+.widget-follow ul li:before {
+    right: 7px !important;
+}
+
+.widget-instagram #instafeed a {
+    width: 85px !important;
+}
+
+.img_last_categorie {
+    width: 20% !important;
+}
+
+.con_last_categorie {
+    width: 75% !important;
+}
+
+.blog-posts-grid .content-block {
+    width: 50% !important;
+}
+
+.posts-list .post-format, .posts-list .post-header {
+    width: 50% !important;
+    padding-right: 15px !important;
+}
+
+.Comments-Post ul li ul {
+    margin-left: 0px !important;
+}
+
+.Comments-Post ul li span a {
+    right: auto !important;
+    left: 28px !important;
+    top: 110px !important;
+}
+
+.comment-form-block {
+    padding: 0px 15px;
+}
+
+.form-input {
+    width: 100% !important;
+}
+
+.title-text h2 {
+    font-size: 30px !important;
+    line-height: 30px !important;
+}
+
+.widget_about p {
+    font-size: 12px !important;
+}
+
+blockquote p {
+    font-size: 15px !important;
+    margin: 5px 0px !important;
+    margin-bottom: 0px !important;
+}
+
+.main-content {
+    margin-bottom: 30px;
+}
+
+.footer-widget {
+    margin-bottom: 30px;
+}
+
+#comments ul li ul {
+    margin-left: 0 !important;
+}
+
+p.comment-form-author, p.comment-form-email, p.comment-form-url {
+    width: 100% !important;
+	padding-right: 0px !important;
+}
+
+#nav-posts .post-nav li {
+    width: 100% !important;
+    border-right: none !important;
+}
+
+li.nav-previous.previous {
+    padding-bottom: 35px;
+	border-bottom: 1px solid #ddd;
+}
+
+li.nav-next.next {
+    padding-top: 35px;
+}
+
+.menu-button {
+    margin-top: 15px !important;
+}
+
+.Search-Icon-header {
+    padding: 17px 15px !important;
+}
+
+.header-style2 .Social-header {
+    margin: 20px 0px !important;
+    width: 100% !important;
+    text-align: center;
+}
+
+.Block-Search-header input {
+    height: 35px !important;
+    border-left: none !important;
+}
+
+.header-style2 .flexnav .touch-button,
+.header-style3 .flexnav .touch-button {
+    background: #282629! important;
+    border-left: 1px Solid #282629 !important;
+}
+
+.slider-2col .title-slider-content p {
+    padding: 0px 3% !important;
+	font-size: 11px !important;
+}
+
+.slider-2col .PostItem img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+
+.slider-2col .post-slider-content {
+    top: -1px !important;
+}
+
+.slider-2col .customNavigation {
+    display: none !important;
+}
+
+.title-slider-content h2, .title-slider-content h2 a {
+    font-size: 15px !important;
+}
+
+.post-header-style2 .inner-single {
+    padding: 85px 0px !important;
+}
+
+.post-header-style2 .post-title a {
+    font-size: 27px !important;
+    padding: 0px 30px !important;
+    line-height: 35px !important;
+}
+
+.post-social {
+    margin-bottom: 0px !important;
+}
+
+.blog-post-view .format-link .post-format img {
+    object-fit: cover;
+    width: 100%;
+    height: 250px;
+}
+
+.blog-post-view .format-quote .post-format img {
+    object-fit: cover;
+    width: 100%;
+    height: 250px;
+}
+
+.home-links h2 a {
+    padding: 15px 25px !important;
+    font-size: 10px !important;
+}
+
+.advertising {
+    text-align: center;
+}
+
+.Block-Search-header .close-search {
+    right: 2rem !important;
+}
+
+.header-style3 .Search-Icon-header {
+    width: 45px !important;
+    height: 45px !important;
+    line-height: 45px !important;
+    padding: 0px 15px !important;
+}
+
+.header-style3 .sidebar-button {
+    width: 45px !important;
+    height: 45px !important;
+    line-height: 45px !important;
+    padding: 0px 15px !important;
+}
+
+}
+/*------------------------------------------------------------------------------*/
+/*                    width : 452px
+/*------------------------------------------------------------------------------*/
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+
+#boxed-layout {
+    width: 100% !important;
+    margin: auto;
+    overflow: auto;
+    -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+}
+
+.header-blog {
+    display: inline-block;
+    width: 100%;
+}
+
+.home-slider img {
+    position: relative;
+    width: 100%;
+    object-fit: cover;
+    height: 350px;
+}
+
+.post-layout-list .post-image {
+    width: 100% !important;
+    margin-bottom: 15px;
+}
+
+.post-layout-list .post-content {
+    width: 100% !important;
+}
+
+.post-layout-list .post-format {
+    min-height: 502px !important;
+}
+
+.post-layout-list .embed-responsive-4by3 {
+    padding-bottom: 46%;
+}
+
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+    width: 45% !important;
+}
+
+.woocommerce-page .related.products ul li {
+    width: 45%!important;
+}
+
+
+.col-md-4.Header-Social {
+    display: inline-block;
+    width: 100%;
+}
+
+.Logo-Header {
+    padding: 0px 0px !important;
+}
+
+.Search-Icon {
+    margin: 20px 0px !important;
+}
+
+.Block-Search {
+    width: 100% !important;
+}
+
+.Block-Search input {
+    width: 83% !important;
+}
+
+.post-slider-content {
+	background: rgba(27,25,29,0.85) !important;
+    padding: 50px 90px !important;
+    height: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+}
+
+.customNavigation {
+    opacity: 0;
+}
+
+.home-links {
+    margin-bottom: 15px !important;
+}
+
+.content-block .post-title a, .content-block .post-title p {
+	font-size: 16px !important;
+    padding: 0 10px !important;
+}
+
+.details-post, .social-shear {
+    margin-bottom: 10px !important;
+}
+
+.content p {
+    font-size: 12px !important;
+}
+
+.widget-instagram_footer ul li {
+    width: 32% !important;
+	height: 220px !important;
+}
+
+ul#instafeedfooter li a img {
+    object-fit: cover;
+    width: 100%;
+    height: 220px !important;
+}
+
+.widget-instagram_footer {
+    padding-bottom: 10px !important;
+}
+
+.pagination-post {
+    display: inline-block;
+    width: 100%;
+}
+
+.widget_content {
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
+
+.widget_title h2 {
+    letter-spacing: 0px !important;
+}
+
+.widget-follow ul li {
+    margin: 0 4px !important;
+}
+
+.widget-follow ul li:before {
+    right: 7px !important;
+}
+
+.widget-instagram #instafeed a {
+    width: 100% !important;
+}
+
+.widget-instagram #instafeed li {
+    width: 115px !important;
+    height: 115px !important;
+}
+
+.widget-instagram #instafeed li a img {
+    object-fit: cover;
+    width: 100% !important;
+    height: 115px !important;
+}
+
+.img_last_categorie {
+    width: 35% !important;
+}
+
+.footer-widget .img_last_categorie {
+    width: 30% !important;
+}
+
+.con_last_categorie {
+    width: 45% !important;
+}
+
+.blog-posts-grid .content-block {
+    width: 100% !important;
+}
+
+.posts-list .post-format, .posts-list .post-header {
+    width: 100% !important;
+    padding-right: 0 !important;
+}
+
+.Comments-Post ul li ul {
+    margin-left: 0px !important;
+}
+
+.Comments-Post ul li span a {
+    right: auto !important;
+    left: 28px !important;
+    top: 110px !important;
+}
+
+.comment-form-block {
+    padding: 0px 15px;
+}
+
+.form-input {
+    width: 100% !important;
+}
+
+.title-text h2 {
+    font-size: 30px !important;
+    line-height: 30px !important;
+}
+
+.widget_about p {
+    font-size: 12px !important;
+}
+
+.post-format {
+    min-height: 161px !important;
+}
+
+.post-header-style2 .post-title h2 {
+    font-size: 24px !important;
+    line-height: 27px !important;
+    padding: 0px 20px !important;
+}
+
+.blog-post-single .post-format {
+    min-height: 270px !important;
+}
+
+.post-layout-grid .post-format {
+    min-height: 479px !important;
+}
+
+blockquote p {
+    font-size: 15px !important;
+    margin: 5px 0px !important;
+    margin-bottom: 0px !important;
+}
+
+.main-content {
+    margin-bottom: 30px;
+}
+
+.footer-widget {
+    margin-bottom: 30px;
+}
+
+#comments ul li ul {
+    margin-left: 0 !important;
+}
+
+p.comment-form-author, p.comment-form-email, p.comment-form-url {
+    width: 100% !important;
+	padding-right: 0px !important;
+}
+
+#nav-posts .post-nav li {
+    width: 100% !important;
+    border-right: none !important;
+}
+
+li.nav-previous.previous {
+    padding-bottom: 35px;
+	border-bottom: 1px solid #ddd;
+}
+
+li.nav-next.next {
+    padding-top: 35px;
+}
+
+.menu-button {
+    margin-top: 15px !important;
+}
+
+.Search-Icon-header {
+    padding: 17px 15px !important;
+}
+
+.Social-header {
+    margin: 20px 0px !important;
+    width: 100% !important;
+    text-align: center;
+}
+
+.header-style2 .Social-header {
+    margin: 20px 0px !important;
+    width: 100% !important;
+    text-align: center;
+}
+
+.Block-Search-header input {
+    height: 35px !important;
+    border-left: none !important;
+}
+
+.header-style2 .flexnav .touch-button,
+.header-style3 .flexnav .touch-button {
+    background: #282629! important;
+    border-left: 1px Solid #282629 !important;
+}
+
+.slider-2col .title-slider-content p {
+    padding: 0px 3% !important;
+	font-size: 11px !important;
+}
+
+.slider-2col .PostItem img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+
+.slider-2col .post-slider-content {
+    top: -1px !important;
+}
+
+.slider-2col .customNavigation {
+    display: none !important;
+}
+
+
+.post-header-style2 .inner-single {
+    padding: 85px 0px !important;
+}
+
+.post-header-style2 .post-title a {
+    font-size: 27px !important;
+    padding: 0px 30px !important;
+    line-height: 35px !important;
+}
+
+.post-social {
+    margin-bottom: 0px !important;
+}
+
+.blog-post-view .format-link .post-format img {
+    object-fit: cover;
+    width: 100%;
+    height: 250px;
+}
+
+.blog-post-view .format-quote .post-format img {
+    object-fit: cover;
+    width: 100%;
+    height: 250px;
+}
+
+.home-links h2 a {
+    padding: 15px 25px !important;
+}
+
+.embed-responsive-1by1 {
+    padding-bottom: 40.5% !important;
+}
+
+.advertising {
+    text-align: center;
+}
+
+.Block-Search-header .close-search {
+    right: 2rem !important;
+}
+
+.header-style3 .Search-Icon-header {
+    width: 45px !important;
+    height: 45px !important;
+    line-height: 45px !important;
+    padding: 0px 15px !important;
+}
+
+.header-style3 .sidebar-button {
+    width: 45px !important;
+    height: 45px !important;
+    line-height: 45px !important;
+    padding: 0px 15px !important;
+}
+
+}
+/*------------------------------------------------------------------------------*/
+/*                    width : 250px
+/*------------------------------------------------------------------------------*/
+@media only screen and (min-width: 250px) and (max-width: 480px) {
+
+#boxed-layout {
+    width: 100% !important;
+    margin: auto;
+    overflow: auto;
+    -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+}
+
+.header-blog {
+    display: inline-block;
+    width: 100%;
+}
+
+.home-slider img {
+    position: relative;
+    width: 100%;
+    object-fit: cover;
+    height: 350px;
+}
+
+.post-header-style2 .post-title h2 {
+    font-size: 24px !important;
+    line-height: 27px !important;
+    padding: 0px 20px !important;
+}
+
+.blog-post-single .embed-responsive-4by3 {
+    padding-bottom: 41%;
+}
+
+.blog-post-single .post-format {
+    min-height: 197px !important;
+}
+
+.post-layout-list .post-image {
+    width: 100% !important;
+    margin-bottom: 15px;
+}
+
+.post-layout-list .post-content {
+    width: 100% !important;
+}
+
+.post-layout-list .post-format {
+    min-height: 251px !important;
+}
+
+.post-layout-list .embed-responsive-4by3 {
+    padding-bottom: 46%;
+}
+
+
+.header-slider:hover .owl-controls {
+    opacity: 0 !important;
+}
+
+.meta-slider-content ul li {
+    margin: 0 !important;
+}
+
+.post-content {
+    padding: 20px 15px 30px 15px !important;
+}
+
+.post-cat {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+.post-share {
+    float: right;
+    display: inline-block;
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    text-align: center;
+}
+
+.post-image img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+
+.post-layout-stander .post-format img {
+    height: 250px;
+    object-fit: cover;
+    width: 100%;
+}
+
+blockquote p {
+    line-height: 20px !important;
+}
+
+.form-container input[type="search"] {
+    font-size: 26px !important;
+    letter-spacing: -1px !important;
+}
+
+.form-container p {
+    font-size: 14px !important;
+}
+
+
+.comment-body .reply a,
+.comment-body .comment-edit-link {
+    top: 45px !important;
+}
+
+.comment-body p {
+    margin: 8px 0px 0px 0 !important;
+}
+
+#comments ul li ul {
+    margin-left: 0 !important;
+    padding: 0 !important;
+}
+
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+    width: 100% !important;
+}
+
+#add_payment_method table.cart td.actions .coupon .input-text, .woocommerce-cart table.cart td.actions .coupon .input-text, .woocommerce-checkout table.cart td.actions .coupon .input-text {
+    margin-bottom: 15px;
+    width: 100% !important;
+}
+
+.woocommerce #content table.cart td.actions .coupon .button.alt, .woocommerce #content table.cart td.actions .coupon .input-text+.button, .woocommerce table.cart td.actions .coupon .button.alt, .woocommerce table.cart td.actions .coupon .input-text+.button, .woocommerce-page #content table.cart td.actions .coupon .button.alt, .woocommerce-page #content table.cart td.actions .coupon .input-text+.button, .woocommerce-page table.cart td.actions .coupon .button.alt, .woocommerce-page table.cart td.actions .coupon .input-text+.button {
+    float: right;
+    width: 100% !important;
+}
+
+
+
+
+
+.col-md-4.Header-Social {
+    display: inline-block;
+    width: 100%;
+}
+
+.Logo-Header {
+    padding: 0px 0px !important;
+}
+
+.Social-header {
+    margin: 20px 0px !important;
+    width: 100% !important;
+    text-align: center;
+}
+
+.Search-Icon {
+    margin: 20px 0px !important;
+}
+
+.Block-Search {
+    width: 100% !important;
+}
+
+.Block-Search input {
+    width: 83% !important;
+}
+
+.post-slider-content {
+	background: rgba(27,25,29,0.85) !important;
+    padding: 50px 20px !important;
+    height: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+}
+
+.customNavigation {
+    opacity: 0;
+}
+
+.home-links {
+    margin-bottom: 15px !important;
+}
+
+.content-block .post-title a, .content-block .post-title p {
+	font-size: 16px !important;
+    padding: 0 10px !important;
+}
+
+.details-post, .social-shear {
+    margin-bottom: 10px !important;
+}
+
+.content p {
+    font-size: 12px !important;
+}
+
+.widget-instagram_footer ul li {
+    width: 32% !important;
+	height: 165px !important;
+}
+
+ul#instafeedfooter li a img {
+    object-fit: cover;
+    width: 100%;
+    height: 165px !important;
+}
+
+
+.widget-instagram_footer {
+    padding-bottom: 10px !important;
+}
+
+.pagination-post {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.widget_content {
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
+
+.widget_title h2 {
+    letter-spacing: 0px !important;
+}
+
+.widget-follow ul li {
+    margin: 0 4px !important;
+}
+
+.widget-follow ul li:before {
+    right: 7px !important;
+}
+
+.widget-instagram #instafeed li {
+    width: 85px !important;
+	height: 85px !important;
+}
+
+.widget-instagram #instafeed li a img {
+    object-fit: cover;
+    width: 78px !important;
+    height: 85px !important;
+}
+
+.img_last_categorie {
+    width: 115px !important;
+}
+
+.con_last_categorie {
+    width: 140px !important;
+}
+
+.footer-widget .con_last_categorie {
+    width: 200px !important;
+}
+
+.blog-posts-grid .content-block {
+    width: 100% !important;
+}
+
+.posts-list .post-format, .posts-list .post-header {
+    width: 100% !important;
+    padding-right: 0 !important;
+}
+
+.Comments-Post ul li ul {
+    margin-left: 0px !important;
+}
+
+.Comments-Post ul li span a {
+    right: auto !important;
+    left: 28px !important;
+    top: 110px !important;
+}
+
+.comment-form-block {
+    padding: 0px 15px;
+}
+
+.form-input {
+    width: 100% !important;
+}
+
+.title-text h2 {
+    font-size: 25px !important;
+    line-height: 30px !important;
+}
+
+.widget_about p {
+    font-size: 12px !important;
+}
+
+.embed-responsive-1by1 {
+    padding-bottom: 39.5% !important;
+}
+
+.iframe-post.audio .embed-responsive-1by1 {
+    padding-bottom: 115px !important;
+}
+
+.post-format {
+    min-height: 271px !important;
+}
+
+blockquote p {
+    font-size: 15px !important;
+    margin: 5px 0px !important;
+    margin-bottom: 0px !important;
+}
+
+.main-content {
+    margin-bottom: 30px;
+}
+
+.footer-widget {
+    margin-bottom: 30px;
+}
+
+p.comment-form-author, p.comment-form-email, p.comment-form-url {
+    width: 100% !important;
+	padding-right: 0px !important;
+}
+
+#nav-posts .post-nav li {
+    width: 100% !important;
+    border-right: none !important;
+}
+
+li.nav-previous.previous {
+    padding-bottom: 35px;
+	border-bottom: 1px solid #ddd;
+}
+
+li.nav-next.next {
+    padding-top: 35px;
+}
+
+.menu-button {
+    margin-top: 15px !important;
+}
+
+.Search-Icon-header {
+    padding: 17px 15px !important;
+}
+
+.Block-Search-header input {
+    height: 35px !important;
+    border-left: none !important;
+}
+
+.header-style2 .flexnav .touch-button,
+.header-style3 .flexnav .touch-button {
+    background: #282629! important;
+    border-left: 1px Solid #282629 !important;
+}
+
+.slider-2col .title-slider-content p {
+    padding: 0px 3% !important;
+	font-size: 11px !important;
+}
+
+.slider-2col .PostItem img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+
+.slider-2col .post-slider-content {
+    top: -1px !important;
+}
+
+.slider-2col .customNavigation {
+    display: none !important;
+}
+
+.title-slider-content h2, .title-slider-content h2 a {
+    font-size: 15px !important;
+}
+
+.post-header-style2 .inner-single {
+    padding: 85px 0px !important;
+}
+
+.post-header-style2 .post-title a {
+    font-size: 27px !important;
+    padding: 0px 30px !important;
+    line-height: 35px !important;
+}
+
+.post-social {
+    margin-bottom: 0px !important;
+}
+
+.blog-post-view .format-link .post-format img {
+    object-fit: cover;
+    width: 100%;
+    height: 250px;
+}
+
+.blog-post-view .format-quote .post-format img {
+    object-fit: cover;
+    width: 100%;
+    height: 250px;
+}
+
+.home-links h2 a {
+    padding: 15px 25px !important;
+}
+
+.advertising {
+    text-align: center;
+}
+
+.Social-header ul li {
+    margin: 0px !important;
+}
+
+.Block-Search-header .close-search {
+    right: 2rem !important;
+}
+
+.header-style3 .Search-Icon-header {
+    width: 45px !important;
+    height: 45px !important;
+    line-height: 45px !important;
+    padding: 0px 15px !important;
+}
+
+.header-style3 .sidebar-button {
+    width: 45px !important;
+    height: 45px !important;
+    line-height: 45px !important;
+    padding: 0px 15px !important;
+}
+
+}
+
+@media only screen and (max-width: 320px) {
+
+.blog-post-single .post-format {
+    min-height: 125px !important;
+}
+
+}
