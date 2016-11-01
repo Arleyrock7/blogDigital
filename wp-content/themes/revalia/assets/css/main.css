@@ -4380,6 +4380,7 @@ height: 100%;
 
 .category-content p {
 	color: #212121 !important;
+  display: none;
 }
 
 .category-content p:before,
